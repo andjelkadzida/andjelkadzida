@@ -58,7 +58,11 @@
 <img src="https://img.icons8.com/color/36/000000/git.png" align="left" alt="Git"/>
 
 <!--GitHub-->
-<img src="https://img.icons8.com/ios-glyphs/36/000000/github.png" align="left" alt="GitHub"/><br>
+<img src="https://img.icons8.com/ios-glyphs/36/000000/github.png" align="left" alt="GitHub"/>
+
+<!--Docker-->
+<img src="https://img.icons8.com/color/36/000000/docker.png" align="left" alt="Docker"/><br>
+
 <!---
 andjelkadzida/andjelkadzida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
