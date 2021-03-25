@@ -103,3 +103,7 @@
 </ul>
 <hr>
 <!--GitHub-->
+<details open="">
+  <summary>📊 GitHub Stats</summary>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/><img align="left" alt="Andjelka Dzida's GitHub Stats" src="https://camo.githubusercontent.com/" data-canonical-src="https://github-readme-stats-codestackr.vercel.app/api?username=andjelkadzida&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;"></a>
+</details>
