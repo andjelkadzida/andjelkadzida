@@ -105,5 +105,5 @@
 <!--GitHub-->
 <details open="">
   <summary>📊 GitHub Stats</summary>
-  <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Andjelka Dzida's GitHub Stats" src="https://github-stats-gzqz8dnmm-andjelkadzida.vercel.app/api?username=andjelkadzida&amp;show_icons=true&theme=github_dark&amp;hide_border=true;" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Andjelka Dzida's GitHub Stats" src="https://github-stats-gzqz8dnmm-andjelkadzida.vercel.app/api?username=andjelkadzida&show_icons=true&theme=github_dark&hide_border=true;" style="max-width:100%;"></a>
 </details>
