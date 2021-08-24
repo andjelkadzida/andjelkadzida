@@ -103,7 +103,11 @@
 </ul>
 <hr>
 
-<!--START_SECTION:activity-->
+<details>
+  <summary>Last activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details
 
 <!--GitHub-->
 <details open="">
