@@ -102,6 +102,9 @@
   <li><a href="https://www.thecampster.com/hr/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for data science (Croatian language)</a></li>
 </ul>
 <hr>
+
+<!--START_SECTION:activity-->
+
 <!--GitHub-->
 <details open="">
   <summary>📊 GitHub Stats</summary>
