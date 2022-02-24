@@ -24,6 +24,9 @@
 <!--C-->
 <img src="https://img.icons8.com/color/36/000000/c-programming.png" align="left" alt="C" title="C"/>
 
+<!--Python-->
+<img src="https://img.icons8.com/color/36/000000/python--v1.png" align="left" alt="Python" title="Python"/>
+
 <!--SQL-->
 <img src="https://img.icons8.com/ios/36/000000/database.png" align="left" alt="SQL" title="SQL"/>
 
