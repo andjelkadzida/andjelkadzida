@@ -16,7 +16,7 @@
 <img src="https://img.icons8.com/color/36/000000/css3.png" align="left" alt="CSS" title="CSS"/>
 
 <!--JavaScript-->
-<img src="https://img.icons8.com/ios-filled/36/000000/javascript-logo.png" align="left" alt="JavaScript" title="JavaScript"/>
+<!-- <img src="https://img.icons8.com/ios-filled/36/000000/javascript-logo.png" align="left" alt="JavaScript" title="JavaScript"/> -->
 
 <!--React-->
 <img src="https://img.icons8.com/officel/36/000000/react.png" align="left" alt="React" title="React"/>
