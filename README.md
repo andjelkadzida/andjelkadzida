@@ -34,7 +34,7 @@
 <img src="https://img.icons8.com/color/36/000000/python--v1.png" align="left" alt="Python" title="Python"/>
 
 <!--Dart-->
-<img src="https://img.icons8.com/color/36/000000/flutter.png" align="left" alt="Dart" title="Dart"/>
+<img src="https://img.icons8.com/color/36/000000/dart.png" align="left" alt="Dart" title="Dart"/>
 
 <!--SQL-->
 <img src="https://img.icons8.com/ios/36/000000/database.png" align="left" alt="SQL" title="SQL"/>
