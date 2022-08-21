@@ -33,6 +33,9 @@
 <!--Python-->
 <img src="https://img.icons8.com/color/36/000000/python--v1.png" align="left" alt="Python" title="Python"/>
 
+<!--Dart-->
+<img src="https://img.icons8.com/color/36/000000/flutter.png" align="left" alt="Dart" title="Dart"/>
+
 <!--SQL-->
 <img src="https://img.icons8.com/ios/36/000000/database.png" align="left" alt="SQL" title="SQL"/>
 
@@ -47,6 +50,9 @@
 
 <!-- Android -->
 <img src="https://img.icons8.com/color/36/000000/android-os.png" align="left" alt="Android" title="Android"/>
+
+<!--Flutter-->
+<img src="https://img.icons8.com/color/36/000000/flutter.png" align="left" alt="Flutter" title="Flutter"/>
 
 <!--IntelliJ IDEA -->
 <img src="https://img.icons8.com/color/36/000000/intellij-idea.png" align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
@@ -70,6 +76,7 @@
 <img src="https://img.icons8.com/ios-glyphs/36/000000/github.png" align="left" alt="GitHub" title="GitHub"/>
 
 <!--Docker-->
+
 <img src="https://img.icons8.com/color/36/000000/docker.png" align="left" alt="Docker" title="Docker"/><br>
 
 <!--Salesforce-->
