@@ -119,14 +119,14 @@
 
 <ul>
   <li><a href="https://www.thecampster.com/rs/onlajn-kurs/osnove-programskog-jezika-c-130" rel="nofollow">Fundamentals of C programming (Serbian language)</a></li>
-  <li><a href="https://www.thecampster.com/rs/onlajn-kurs/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for data science (Serbian language)</a></li>
-  <li><a href="https://www.thecampster.com/hr/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for data science (Croatian language)</a></li>
+  <li><a href="https://www.thecampster.com/rs/onlajn-kurs/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Serbian language)</a></li>
+  <li><a href="https://www.thecampster.com/hr/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Croatian language)</a></li>
 </ul>
 <hr>
 
 <!--GitHub-->
 <details open="">
   <summary>📊 GitHub Stats</summary>
- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=andjelkadzida&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=andjelkadzida&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
 
 </details>
