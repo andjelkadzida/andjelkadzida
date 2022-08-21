@@ -57,6 +57,9 @@
 <!--IntelliJ IDEA -->
 <img src="https://img.icons8.com/color/36/000000/intellij-idea.png" align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
 
+<!--PyCharm-->
+<img src="https://img.icons8.com/color/36/000000/pycharm.png" align="left" alt="PyCharm" title="PyCharm"/>
+
 <!--Unity-->
 <img src="https://img.icons8.com/ios-filled/36/000000/unity.png" align="left" alt="Unity" title="Unity"/>
 
