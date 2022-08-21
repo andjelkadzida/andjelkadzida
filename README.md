@@ -82,7 +82,8 @@
 <img src="https://img.icons8.com/color/36/000000/docker.png" align="left" alt="Docker" title="Docker"/>
 
 <!--Salesforce-->
-<img src="https://img.icons8.com/color/36/000000/salesforce.png" align="left" alt="Salesforce" title="Salesforce"/>
+
+<img src="https://img.icons8.com/color/36/000000/salesforce.png" align="left" alt="Salesforce" title="Salesforce"/><br>
 
 <!--Languages I speak-->
 
