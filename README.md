@@ -25,7 +25,7 @@
 <img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png" align="left" alt="Java" title="Java"/>
 
 <!--C#-->
-<img src="https://img.icons8.com/color/36/000000/c-sharp-logo.png" align="left" alt="C Sharp" title="C sharp"/>
+<img src="https://img.icons8.com/color/36/000000/c-sharp-logo.png" align="left" alt="C Sharp" title="C Sharp"/>
 
 <!--C-->
 <img src="https://img.icons8.com/color/36/000000/c-programming.png" align="left" alt="C" title="C"/>
