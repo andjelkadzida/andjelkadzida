@@ -100,7 +100,7 @@
 <img align="left" alt="Andjelka Dzida's E-mail" title="Andjelka Dzida's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="max-width:100%;">
 </a>
 <!-- Youtube -->
-<a href="https://www.youtube.com/channel/UCJlG-Mad7yhU5BV40MCwQzQ" rel="nofollow">
+<a href="https://youtube.com/@andjelkadzida" rel="nofollow">
 <img align="left" alt="Andjelka Dzida's YouTube" title="Andjelka Dzida's YouTube" width="22px" src="https://camo.githubusercontent.com/6645c4c313a1f4f0032cd1c5e5fd0033417104a7a282fed4cafdca8ac2a1ab33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width:100%;">
 </a>
 <!-- LinkedIn -->
