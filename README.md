@@ -1,7 +1,7 @@
 <h2><a id="user-content-im-andjelka-dzida-junior-software-developer" class="anchor" aria-hidden="true" href="#im-andjelka-dzida-junior-software-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I’m Andjelka Dzida, software developer</h2>
 <ul>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📱 My first Android application: <a href="https://play.google.com/store/apps/details?id=andjelka.kvizpliz" rel="nofollow" alt="Kviz, pliz">Kviz, pliz!</a></li>
-  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 👀 Fields of interest: Digital forensics and cyber security in general, Microsoft Azure, Software development, Android & iOS development </li>
+  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 👀 Fields of interest: Digital forensics & Cyber security in general, Microsoft Azure, Software development, Android & iOS development </li>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📈 I’m currently learning a lot of things: Java & Spring framework, JavaScript & React, Salesforce, Python </li>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🚀 2022 Goals: Launch Android & iOS tour guide application! Improvement of Python, React and Salesforce knowledge</li> 
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🏸 Hobbies: Animals, reading & writing, playing tennis & badminton</li>
@@ -82,7 +82,6 @@
 <img src="https://img.icons8.com/color/36/000000/docker.png" align="left" alt="Docker" title="Docker"/>
 
 <!--Salesforce-->
-
 <img src="https://img.icons8.com/color/36/000000/salesforce.png" align="left" alt="Salesforce" title="Salesforce"/><br>
 
 <!--Languages I speak-->
