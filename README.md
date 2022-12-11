@@ -120,6 +120,8 @@
   <li><a href="https://www.thecampster.com/rs/onlajn-kurs/osnove-programskog-jezika-c-130" rel="nofollow">Fundamentals of C programming (Serbian language)</a></li>
   <li><a href="https://www.thecampster.com/rs/onlajn-kurs/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Serbian language)</a></li>
   <li><a href="https://www.thecampster.com/hr/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Croatian language)</a></li>
+</li>
+  <li><a href="https://www.thecampster.com/ba/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Bosnian language)</a></li>
 </ul>
 <hr>
 
