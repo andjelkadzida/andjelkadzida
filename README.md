@@ -2,8 +2,9 @@
 <ul>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📱 My first Android application: <a href="https://play.google.com/store/apps/details?id=andjelka.kvizpliz" rel="nofollow" alt="Kviz, pliz">Kviz, pliz!</a></li>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 👀 Fields of interest: Digital forensics & Cyber security in general, Microsoft Azure, Software development, Android & iOS development </li>
-  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📈 I’m currently learning a lot of things: Java & Spring framework, JavaScript & React, Salesforce, Python </li>
-  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🚀 2022 Goals: Launch Android & iOS tour guide application! Improvement of Python, React and Salesforce knowledge</li> 
+  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📈 I’m currently learning a lot of things: Java & Spring framework, JavaScript & React, Salesforce, Python, Flutter & Dart </li>
+  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🚀 <script type="text/javascript">document.write(new Date().getFullYear());</script>.
+ Goals: Launch Android & iOS tour guide application! Improvement of Python, React and Salesforce knowledge</li> 
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🏸 Hobbies: Animals, reading & writing, playing tennis & badminton</li>
 </ul>
 
