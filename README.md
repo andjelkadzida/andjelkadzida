@@ -3,8 +3,7 @@
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📱 My first Android application: <a href="https://play.google.com/store/apps/details?id=andjelka.kvizpliz" rel="nofollow" alt="Kviz, pliz">Kviz, pliz!</a></li>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 👀 Fields of interest: Digital forensics & Cyber security in general, Microsoft Azure, Software development, Android & iOS development </li>
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 📈 I’m currently learning a lot of things: Java & Spring framework, JavaScript & React, Salesforce, Python, Flutter & Dart </li>
-  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🚀 <script src="currentYear.js"/>.
- Goals: Launch Android & iOS tour guide application! Improvement of Python, React and Salesforce knowledge</li> 
+  <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🚀 2023. Goals: Launch Android & iOS tour guide application! </li> 
   <li style="unicode-bidi: isolate; font-variant-numeric: tabular-nums; text-transform: none; text-indent: 0px !important; text-align: start !important; text-align-last: start !important;"> 🏸 Hobbies: Animals, reading & writing, playing tennis & badminton</li>
 </ul>
 
@@ -65,7 +64,7 @@
 <img src="https://img.icons8.com/ios-filled/36/000000/unity.png" align="left" alt="Unity" title="Unity"/>
 
 <!--Visual Studio-->
-<img src="https://img.icons8.com/fluent/36/000000/visual-studio-2019.png" align="left" alt="Visual Studio" title="Visual Studio"/>
+<img src="https://img.icons8.com/color/36/null/visual-studio--v2.png" align="left" alt="Visual Studio" title="Visual Studio"/>
 
 <!--VS Code-->
 <img src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png" align="left" alt="VS Code" title="VS Code"/>
@@ -107,7 +106,7 @@
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/andjelkadzida" rel="nofollow"><img align="left" alt="Andjelka Dzida's LinkedIn" title="Andjelka Dzida's LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
 <!-- Instagram -->
-<a href="https://instagram.com/andjelka.dzida" rel="nofollow"><img align="left" alt="Andjelka Dzida's Instagram" title="Andjelka Dzida's Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a><br>
+<a href="https://instagram.com/andjelka_jedaj" rel="nofollow"><img align="left" alt="Andjelka Dzida's Instagram" title="Andjelka Dzida's Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a><br>
 
 <!--Break-->
 <hr>
