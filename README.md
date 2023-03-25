@@ -37,7 +37,7 @@
 <img src="https://img.icons8.com/color/36/000000/dart.png" align="left" alt="Dart" title="Dart"/>
 
 <!--SQL-->
-<img src="https://img.icons8.com/ios/36/000000/database.png" align="left" alt="SQL" title="SQL"/>
+<img src="https://img.icons8.com/office/36/null/database.png" align="left" alt="SQL" title="SQL"/>
 
 <!--MySQL-->
 <img src="https://img.icons8.com/fluent/36/000000/mysql-logo.png" align="left" alt="MySQL" title="MySQL"/>
