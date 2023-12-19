@@ -57,14 +57,17 @@
 <!--Flutter-->
 <img src="https://img.icons8.com/color/36/000000/flutter.png" align="left" alt="Flutter" title="Flutter"/>
 
+<!--Unity-->
+<img src="https://img.icons8.com/ios-filled/36/000000/unity.png" align="left" alt="Unity" title="Unity"/>
+
 <!--IntelliJ IDEA -->
 <img src="https://img.icons8.com/color/36/000000/intellij-idea.png" align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
 
 <!--PyCharm-->
 <img src="https://img.icons8.com/color/36/000000/pycharm.png" align="left" alt="PyCharm" title="PyCharm"/>
 
-<!--Unity-->
-<img src="https://img.icons8.com/ios-filled/36/000000/unity.png" align="left" alt="Unity" title="Unity"/>
+<!--Android studio-->
+<img width="36" height="36" src="https://img.icons8.com/color/36/android-studio--v2.png" align="left" alt="Android Studio" title="Android Studio"/>
 
 <!--Visual Studio-->
 <img src="https://img.icons8.com/color/36/null/visual-studio--v2.png" align="left" alt="Visual Studio" title="Visual Studio"/>
