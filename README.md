@@ -102,9 +102,11 @@
 <img align="left" alt="Andjelka Dzida's YouTube" title="Andjelka Dzida's YouTube" src="https://img.icons8.com/ios/50/youtube-play--v1.png">
 </a>
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/andjelkadzida" rel="nofollow"><img align="left" alt="Andjelka Dzida's LinkedIn" title="Andjelka Dzida's LinkedIn" src="https://img.icons8.com/ios/36/linkedin.png"></a>
+<a href="https://linkedin.com/in/andjelkadzida" rel="nofollow">
+  <img align="left" alt="Andjelka Dzida's LinkedIn" title="Andjelka Dzida's LinkedIn" src="https://img.icons8.com/ios/50/linkedin.png">
+</a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/andjelka_dzida" rel="nofollow"><img align="left" alt="Andjelka Dzida's Instagram" title="Andjelka Dzida's Instagram" src="https://img.icons8.com/material-outlined/36/instagram-new--v1.png"></a><br>
+<a href="https://www.instagram.com/andjelka_dzida" rel="nofollow"><img align="left" alt="Andjelka Dzida's Instagram" title="Andjelka Dzida's Instagram" src="https://img.icons8.com/material-outlined/50/instagram-new--v1.png"></a><br>
 
 <!--Break-->
 <hr>
