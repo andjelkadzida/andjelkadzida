@@ -106,7 +106,7 @@
   <img align="left" alt="Andjelka Dzida's LinkedIn" title="Andjelka Dzida's LinkedIn" src="https://img.icons8.com/material-outlined/48/linkedin--v1.png">
 </a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/andjelka_dzida" rel="nofollow">
+<a href="https://www.instagram.com/andjelka.dzida" rel="nofollow">
   <img align="left" alt="Andjelka Dzida's Instagram" title="Andjelka Dzida's Instagram" src="https://img.icons8.com/material-outlined/48/instagram-new--v1.png">
 </a>
 <br>
