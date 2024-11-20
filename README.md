@@ -37,6 +37,9 @@
 <!--MySQL-->
 <img src="https://img.icons8.com/fluent/36/000000/mysql-logo.png" align="left" alt="MySQL" title="MySQL"/>
 
+<!--Firebase-->
+<img src="https://img.icons8.com/color/36/000000/firebase.png" align="left" alt="Firebase" title="Firebase"/>
+
 <!--Spring-->
 <img src="https://img.icons8.com/color/36/000000/spring-logo.png" align="left" alt="Spring Framework" title="Spring Framework"/>
 
