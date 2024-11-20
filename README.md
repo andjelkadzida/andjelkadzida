@@ -129,12 +129,6 @@
   <!-- R Serbian language-->
   <li>
     <a href="https://www.thecampster.com/rs/onlajn-kurs/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Serbian language)</a>       </li>
-  <!--R Croatian language-->
-  <li>
-    <a href="https://www.thecampster.com/hr/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Croatian language)</a>     </li>
-  <!-- R Bosnian language-->
-  <li>
-    <a href="https://www.thecampster.com/ba/online-tecaj/programski-jezik-r-za-data-science-233" rel="nofollow">Basics of R for Data Science (Bosnian language)</a>       </li>
 </ul>
 <hr>
 
