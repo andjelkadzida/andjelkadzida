@@ -117,7 +117,6 @@
 
 <!--Break-->
 <br><hr>
-<hr>
 
 <!--GitHub-->
 <details open="">
