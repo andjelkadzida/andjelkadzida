@@ -122,6 +122,7 @@
 <!--GitHub-->
 <details open>
   <summary>📊 GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andjelkadzida&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
-  <img align="right" alt="The most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andjelkadzida&theme=github_dark&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://andjelka-github-stats.vercel.app/api?username=andjelkadzida&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
+  <img align="right" alt="The most used languages" src="https://andjelka-github-stats.vercel.app/api/top-langs/?username=andjelkadzida&theme=github_dark&hide_border=true" />
+  <br clear="both"/>
 </details>
